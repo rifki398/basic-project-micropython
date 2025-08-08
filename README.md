@@ -1,6 +1,8 @@
 # Basic Project For Introduction to Micropython Pi Pico
 
-![Circuit Diagram](circuit.png)
+<p align="center">
+  <img src="circuit.png" alt="Circuit Diagram" width="480"/>
+</p>
 
 This repository contains simple example codes and explanations for beginners to get started with MicroPython on the Raspberry Pi Pico. The project demonstrates basic functionalities such as:
 
